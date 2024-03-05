@@ -1,0 +1,28 @@
+{
+  "name": "dogs-search",
+  "version": "1.0.0",
+  "description": "This app is need for searching dogs =)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KruglovV/dogs-search.git"
+  },
+  "keywords": [
+    "dogs-search"
+  ],
+  "author": "KruglovV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KruglovV/dogs-search/issues"
+  },
+  "homepage": "https://github.com/KruglovV/dogs-search#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  },
+  "devDependencies": {}
+}
